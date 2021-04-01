@@ -1,6 +1,8 @@
 # APP_CanSat21
 Aplicación CanSat21
 En la página de la descarga hay un archivo README.md que contiene las instrucciones de descarga, instalación y uso de la aplicación. PORFAVOR LÉEALAS ANTES DE USAR LA APP.
+
+
 Aplicación aún en desarrollo. Estamos en la fase BETA. Le agradecemos su colaboración y para el reporte de cualquier error o si quiere aportar nuevas funciones no dude en ponerse en contacto con nuestro equipo de producción mediante el correo: rdtplaneta@gmail.com
 
 
